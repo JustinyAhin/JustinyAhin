@@ -1,4 +1,4 @@
-![Readme Image](https://github.com/JustinyAhin/JustinyAhin/blob/master/assets/images/justin-ahinon-github-readme.png
+![Readme Image](https://github.com/JustinyAhin/JustinyAhin/blob/master/assets/images/justin-ahinon-readme.gif
 )
 
 
