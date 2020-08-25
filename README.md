@@ -1,4 +1,3 @@
-[![Justin Ahinon GitHub Readme](https://www.canva.com/design/DAEF5cZOoMc/DjnhV-YqsWVjobxvKtwfgQ/view?utm_content=DAEF5cZOoMc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 <!--
 **JustinyAhin/JustinyAhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
