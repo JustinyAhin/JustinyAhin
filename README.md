@@ -1,6 +1,4 @@
-![Readme Image](https://github.com/JustinyAhin/JustinyAhin/blob/master/assets/images/justin-ahinon-readme.gif
-)
-
+![Readme Image](https://www.canva.com/design/DAEF5cZOoMc/DjnhV-YqsWVjobxvKtwfgQ/view)
 
 <!--
 **JustinyAhin/JustinyAhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
